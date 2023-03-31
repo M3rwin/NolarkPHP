@@ -1,0 +1,13 @@
+{
+    "name": "vendor/nolark-p-h-p",
+    "description": "Description of project NolarkPHP.",
+    "authors": [
+        {
+            "name": "marco.clin",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "twig/twig": "v2.15.4"
+    }
+}
